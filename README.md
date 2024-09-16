@@ -1,1 +1,2 @@
 # Hallucination-Conversation
+This repository contains the translations of the 'BlendedskillTalk' conversation dataset into Hindi, Farsi and Mandarin using GPT-3.5 and their responses using both GPT-3.5 and GPT-4o. For each .csv file, row 0 contains the original conversation, row 1 contains the translations of speaker 1, row 2 contatins the translations of speaker 2 and row 3 contains the responses by th GPTs.
